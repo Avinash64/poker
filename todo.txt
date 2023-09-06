@@ -1,0 +1,15 @@
+create game
+sit
+
+Big blind
+Small blind
+
+starting hand
+
+Call
+Check
+Fold
+Bet
+Raise
+
+Reveal cards
